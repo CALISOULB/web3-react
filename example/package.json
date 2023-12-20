@@ -20,9 +20,9 @@
     "@web3-react/portis-connector": "latest",
     "@web3-react/torus-connector": "latest",
     "@web3-react/trezor-connector": "latest",
-    "@web3-react/walletconnect-connector": "latest",
+    "@web3-react/walletconnect-connector": "6.2.6",
     "@web3-react/walletlink-connector": "latest",
-    "next": "^9.2.1",
+    "next": "^10.0.2",
     "react": ">=16.8",
     "react-dom": ">=16.8",
     "typescript": "^3.7.5"
